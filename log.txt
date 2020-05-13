@@ -1,0 +1,99 @@
+
+==================
+commit 42d5c51caaeda91df2965a73946393d0755c9e2c
+Author: sauveerk <65033914+sauveerk@users.noreply.github.com>
+Date:   Wed May 13 22:02:11 2020 +0530
+
+    added log.txt to gitignore
+
+commit c165ac163b7ed8c44b40be99935430a0fb00a01f
+Author: sauveerk <65033914+sauveerk@users.noreply.github.com>
+Date:   Wed May 13 22:01:06 2020 +0530
+
+    commiting on master after newbranch has been merged
+
+commit 1e457c5b8f24e7f20a0fc1352f657452bb402570
+Author: sauveerk <65033914+sauveerk@users.noreply.github.com>
+Date:   Wed May 13 21:51:29 2020 +0530
+
+    ignoreit changed
+
+commit 8942fb5a91de8724fed6850d269f6d3848b869cc
+Author: sauveerk <65033914+sauveerk@users.noreply.github.com>
+Date:   Wed May 13 21:38:05 2020 +0530
+
+    newbranch commit
+
+commit fcc0c125ffe64f7b75538e528776218a328bc0c1
+Author: sauveerk <65033914+sauveerk@users.noreply.github.com>
+Date:   Wed May 13 20:47:57 2020 +0530
+
+    B commited
+
+commit eab5cc7029131ee11aca709f1fe38069463f3b58
+Author: sauveerk <65033914+sauveerk@users.noreply.github.com>
+Date:   Tue May 12 23:43:39 2020 +0530
+
+    committing a.txt
+
+commit 33584b2f39cafbd43d0218b5088ba76e560031ad
+Author: sauveerk <65033914+sauveerk@users.noreply.github.com>
+Date:   Tue May 12 23:29:46 2020 +0530
+
+    inital commit to copy all
+
+commit c993648c7776a9b4ac03552bb9c4432a87f13273
+Author: sauve <sauve@LAPTOP-NNRN0MHI>
+Date:   Tue May 12 20:45:35 2020 +0530
+
+    Add .gitignore and .gitattributes.
+
+
+========================
+commit 42d5c51caaeda91df2965a73946393d0755c9e2c
+Author: sauveerk <65033914+sauveerk@users.noreply.github.com>
+Date:   Wed May 13 22:02:11 2020 +0530
+
+    added log.txt to gitignore
+
+commit c165ac163b7ed8c44b40be99935430a0fb00a01f
+Author: sauveerk <65033914+sauveerk@users.noreply.github.com>
+Date:   Wed May 13 22:01:06 2020 +0530
+
+    commiting on master after newbranch has been merged
+
+commit 1e457c5b8f24e7f20a0fc1352f657452bb402570
+Author: sauveerk <65033914+sauveerk@users.noreply.github.com>
+Date:   Wed May 13 21:51:29 2020 +0530
+
+    ignoreit changed
+
+commit 8942fb5a91de8724fed6850d269f6d3848b869cc
+Author: sauveerk <65033914+sauveerk@users.noreply.github.com>
+Date:   Wed May 13 21:38:05 2020 +0530
+
+    newbranch commit
+
+commit fcc0c125ffe64f7b75538e528776218a328bc0c1
+Author: sauveerk <65033914+sauveerk@users.noreply.github.com>
+Date:   Wed May 13 20:47:57 2020 +0530
+
+    B commited
+
+commit eab5cc7029131ee11aca709f1fe38069463f3b58
+Author: sauveerk <65033914+sauveerk@users.noreply.github.com>
+Date:   Tue May 12 23:43:39 2020 +0530
+
+    committing a.txt
+
+commit 33584b2f39cafbd43d0218b5088ba76e560031ad
+Author: sauveerk <65033914+sauveerk@users.noreply.github.com>
+Date:   Tue May 12 23:29:46 2020 +0530
+
+    inital commit to copy all
+
+commit c993648c7776a9b4ac03552bb9c4432a87f13273
+Author: sauve <sauve@LAPTOP-NNRN0MHI>
+Date:   Tue May 12 20:45:35 2020 +0530
+
+    Add .gitignore and .gitattributes.
